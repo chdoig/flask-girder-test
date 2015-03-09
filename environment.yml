@@ -1,6 +1,7 @@
-name: girder
+name: topic_space
 dependencies:
     - python=2.7
     - nodejs
     - mongodb
     - girder
+    - pip

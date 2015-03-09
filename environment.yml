@@ -1,0 +1,6 @@
+name: girder
+dependencies:
+    - python=2.7
+    - nodejs
+    - mongodb
+    - girder

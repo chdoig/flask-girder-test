@@ -49,3 +49,9 @@ The girder web interface will be available:
 
 http://localhost:8080/
 
+
+# Notes
+
+- In the Admin Console, you need to add your other application e.g. http://localhost:5000 under CORS Allowed Origins
+in Settings -> Advanced Settings.
+

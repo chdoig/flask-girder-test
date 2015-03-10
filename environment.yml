@@ -1,7 +1,13 @@
 name: topic_space
 dependencies:
     - python=2.7
+    - flask
     - nodejs
     - mongodb
     - girder
+    - flask
     - pip
+    - pip:
+        - Flask-WTF==0.8.2
+        - flask-migrate
+        - flask-restful

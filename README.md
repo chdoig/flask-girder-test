@@ -1,5 +1,3 @@
-TOPIC SPACE
-
 # Installation
 
 - Intall [conda](http://conda.pydata.org/):

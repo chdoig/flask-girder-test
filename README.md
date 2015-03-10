@@ -1,6 +1,6 @@
 # Installation
 
-- Intall [conda](http://conda.pydata.org/):
+- Install [conda](http://conda.pydata.org/):
 
 ```
 wget http://bit.ly/miniconda
@@ -32,7 +32,7 @@ If you haven't done so, activate your environment:
 source activate topic_space
 ```
 
-- Run
+- Run Girder
 
 ```
 # Start mongodb
@@ -47,6 +47,15 @@ The girder web interface will be available:
 
 http://localhost:8080/
 
+- Run Flask app
+
+```
+$python run.py
+```
+
+The flask web interface will be available:
+
+http://localhost:5000/
 
 # Notes
 
